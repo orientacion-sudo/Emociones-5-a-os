@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510204342ADB96V</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510204342RNOIN0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Descubriendo mis emociones (aula 5 años)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Paula Alarcón Gómez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida al alumnado de 5 años de Educación Infantil centrada en el reconocimiento, expresión y gestión de emociones mediante actividades manipulativas, cooperativas y digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778434293344</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>1204f86f-ffe4-4c84-bf1a-6360b88292e4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>1204f86f-ffe4-4c84-bf1a-6360b88292e4</odePageId>
+      <odeBlockId>block-1778431755652-gey4vp6t4</odeBlockId>
+      <blockName>Descubriendo mis emociones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>1204f86f-ffe4-4c84-bf1a-6360b88292e4</odePageId>
+          <odeBlockId>block-1778431755652-gey4vp6t4</odeBlockId>
+          <odeIdeviceId>idevice-1778431755649-ri8ae0uqa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos/as a esta Situación de Aprendizaje dirigida al alumnado de 5 años de Educación Infantil.<br />A través del juego, los cuentos y actividades manipulativas, aprenderemos a identificar, expresar y comprender nuestras emociones.</p>
+<p>Trabajaremos lo siguiente:</p>
+<p>- Reconocimiento de emociones básicas (alegría, tristeza, enfado, miedo)<br />- Expresión emocional en el aula<br />- Empatía y convivencia<br />- Trabajo cooperativo</p>
+<p>Posteriormente crearemos entre todos un mural o rincón de las emociones en el aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778431755649-ri8ae0uqa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos/as a esta Situación de Aprendizaje dirigida al alumnado de 5 años de Educación Infantil.<br />A través del juego, los cuentos y actividades manipulativas, aprenderemos a identificar, expresar y comprender nuestras emociones.</p>\n<p>Trabajaremos lo siguiente:</p>\n<p>- Reconocimiento de emociones básicas (alegría, tristeza, enfado, miedo)<br />- Expresión emocional en el aula<br />- Empatía y convivencia<br />- Trabajo cooperativo</p>\n<p>Posteriormente crearemos entre todos un mural o rincón de las emociones en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431292213-dkdp7za3f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431292213-dkdp7za3f</odePageId>
+      <odeBlockId>block-1778432412730-zeoo0mj25</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431292213-dkdp7za3f</odePageId>
+          <odeBlockId>block-1778432412730-zeoo0mj25</odeBlockId>
+          <odeIdeviceId>idevice-1778432412728-qhahc3u4e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje trabaja la educación emocional en el aula de 5 años, favoreciendo el reconocimiento y la gestión de emociones desde edades tempranas.</p>
+<p>El proyecto se desarrolla en un aula de Educación Infantil (5 años), adaptado a sus características evolutivas y necesidades emocionales.</p>
+<p>Los objetivos son:</p>
+<p>- Reconocer emociones básicas</p>
+<p>- Expresar emociones de forma adecuada.</p>
+<p>- Desarrollar empatía.</p>
+<p>- Participar en actividades cooperativas</p>
+<p>Se utiliza una metodología activa, lúdica y globalizada basada en el juego, la manipulación y la experimentación.<br /> <br />Se aplican los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de participación, representación y expresión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432412728-qhahc3u4e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje trabaja la educación emocional en el aula de 5 años, favoreciendo el reconocimiento y la gestión de emociones desde edades tempranas.</p>\n<p>El proyecto se desarrolla en un aula de Educación Infantil (5 años), adaptado a sus características evolutivas y necesidades emocionales.</p>\n<p>Los objetivos son:</p>\n<p>- Reconocer emociones básicas</p>\n<p>- Expresar emociones de forma adecuada.</p>\n<p>- Desarrollar empatía.</p>\n<p>- Participar en actividades cooperativas</p>\n<p>Se utiliza una metodología activa, lúdica y globalizada basada en el juego, la manipulación y la experimentación.<br /> <br />Se aplican los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de participación, representación y expresión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431299713-uidzh7jcs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431299713-uidzh7jcs</odePageId>
+      <odeBlockId>block-1778432519878-a77m3ifef</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431299713-uidzh7jcs</odePageId>
+          <odeBlockId>block-1778432519878-a77m3ifef</odeBlockId>
+          <odeIdeviceId>idevice-1778432519877-tb42wc1mk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado elaborará de forma colaborativa un mural o rincón de las emociones en el aula, donde se representarán las emociones básicas trabajadas durante la situación de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432519877-tb42wc1mk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado elaborará de forma colaborativa un mural o rincón de las emociones en el aula, donde se representarán las emociones básicas trabajadas durante la situación de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431308279-bwmd3riwn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431406562-85oswbt6v</odePageId>
+  <odeParentPageId>page-1778431308279-bwmd3riwn</odeParentPageId>
+  <pageName>¿Cómo me siento?</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo me siento?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431406562-85oswbt6v</odePageId>
+      <odeBlockId>block-1778432636145-ghtub85e4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431406562-85oswbt6v</odePageId>
+          <odeBlockId>block-1778432636145-ghtub85e4</odeBlockId>
+          <odeIdeviceId>idevice-1778432636144-zdlsyqtwx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Objetivo: Reconocer y expresar emociones básicas a través de imágenes y situaciones cotidianas.</p>
+<p>El alumnado observará diferentes imágenes de situaciones cotidianas (niños/as felices, tristes, enfadados o asustados) y deberá identificar cómo se sienten los personajes. </p>
+<p><img src="https://i.pinimg.com/originals/c9/ee/6b/c9ee6bf7525ebb5d2c9c1fd0db11ceb8.png" width="515" height="594" alt="Emociones" /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432636144-zdlsyqtwx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Objetivo: Reconocer y expresar emociones básicas a través de imágenes y situaciones cotidianas.</p>\n<p>El alumnado observará diferentes imágenes de situaciones cotidianas (niños/as felices, tristes, enfadados o asustados) y deberá identificar cómo se sienten los personajes. </p>\n<p><img src=\"https://i.pinimg.com/originals/c9/ee/6b/c9ee6bf7525ebb5d2c9c1fd0db11ceb8.png\" width=\"515\" height=\"594\" alt=\"Emociones\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431418312-3zs7bky08</odePageId>
+  <odeParentPageId>page-1778431308279-bwmd3riwn</odeParentPageId>
+  <pageName>Reconocemos emociones</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Reconocemos emociones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431418312-3zs7bky08</odePageId>
+      <odeBlockId>block-1778432716375-h30k267ij</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431418312-3zs7bky08</odePageId>
+          <odeBlockId>block-1778432716375-h30k267ij</odeBlockId>
+          <odeIdeviceId>idevice-1778432716374-gi4vcwqb7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Objetivo: Identificar emociones básicas en uno mismo y en los demás, desarrollando la empatía.</p>
+<p>El alumnado trabajará con tarjetas o imágenes donde aparecen diferentes expresiones faciales. Deberán reconocer qué emoción representa cada una. Se participa en grupo, respetando turnos de palabra y escuchando a los demás.<img src="https://i.pinimg.com/originals/88/c6/ec/88c6ec7fc9a2d2f5725aafcd782dd4d6.jpg" width="1061" height="750" alt="Tarjetas de emociones" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432716374-gi4vcwqb7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Objetivo: Identificar emociones básicas en uno mismo y en los demás, desarrollando la empatía.</p>\n<p>El alumnado trabajará con tarjetas o imágenes donde aparecen diferentes expresiones faciales. Deberán reconocer qué emoción representa cada una. Se participa en grupo, respetando turnos de palabra y escuchando a los demás.<img src=\"https://i.pinimg.com/originals/88/c6/ec/88c6ec7fc9a2d2f5725aafcd782dd4d6.jpg\" width=\"1061\" height=\"750\" alt=\"Tarjetas de emociones\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431430446-ijpsf2ol3</odePageId>
+  <odeParentPageId>page-1778431308279-bwmd3riwn</odeParentPageId>
+  <pageName>Cuentos de emociones</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuentos de emociones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431430446-ijpsf2ol3</odePageId>
+      <odeBlockId>block-1778432796860-la7aolflc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431430446-ijpsf2ol3</odePageId>
+          <odeBlockId>block-1778432796860-la7aolflc</odeBlockId>
+          <odeIdeviceId>idevice-1778432796859-x9i3n5i30</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Objetivo</strong>: Identificar y comprender emociones a través de la escucha de cuentos.</p>
+<p>Se trabajará la educación emocional a partir de cuentos infantiles donde los personajes experimentan distintas emociones. El alumnado escuchará la historia y reflexionará sobre cómo se sienten los personajes en cada momento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432796859-x9i3n5i30","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Objetivo</strong>: Identificar y comprender emociones a través de la escucha de cuentos.</p>\n<p>Se trabajará la educación emocional a partir de cuentos infantiles donde los personajes experimentan distintas emociones. El alumnado escuchará la historia y reflexionará sobre cómo se sienten los personajes en cada momento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431440695-bho2mzyuk</odePageId>
+  <odeParentPageId>page-1778431308279-bwmd3riwn</odeParentPageId>
+  <pageName>Juego cooperativo emocional</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juego cooperativo emocional</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431440695-bho2mzyuk</odePageId>
+      <odeBlockId>block-1778432844394-ph22ww0fs</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431440695-bho2mzyuk</odePageId>
+          <odeBlockId>block-1778432844394-ph22ww0fs</odeBlockId>
+          <odeIdeviceId>idevice-1778432844393-p9df4b256</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Objetivo:</strong> Desarrollar la identificación y expresión de emociones mediante el juego cooperativo.</p>
+<p>El alumnado participará en juegos grupales donde tendrá que representar, adivinar o expresar emociones mediante gestos, movimientos o situaciones simuladas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432844393-p9df4b256","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Objetivo:</strong> Desarrollar la identificación y expresión de emociones mediante el juego cooperativo.</p>\n<p>El alumnado participará en juegos grupales donde tendrá que representar, adivinar o expresar emociones mediante gestos, movimientos o situaciones simuladas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431452079-ahu54fum9</odePageId>
+  <odeParentPageId>page-1778431308279-bwmd3riwn</odeParentPageId>
+  <pageName>Creamos el mural</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creamos el mural</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Creamos el mural</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431452079-ahu54fum9</odePageId>
+      <odeBlockId>block-1778432927759-1ppz6g0tg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431452079-ahu54fum9</odePageId>
+          <odeBlockId>block-1778432927759-1ppz6g0tg</odeBlockId>
+          <odeIdeviceId>idevice-1778432927758-naqwec4po</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Objetivo: </strong>Elaborar de forma colaborativa el producto final del proyecto: el mural o rincón de las emociones.</p>
+<p>El alumnado participará en la creación de un mural donde se representarán las emociones trabajadas durante toda la situación de aprendizaje.</p>
+<p>Lo hará mediante:</p>
+<p>-Selección de emociones trabajadas.</p>
+<p>- Dibujo o representación de emociones.</p>
+<p>- Pegado de imágenes, pictogramas o trabajos del alumnado.</p>
+<p>- Montaje final del mural en el aula.</p>
+<p>Todos los niños y niñas participan en la construcción del mural, respetando y valorando el trabajo de los demás.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778432927758-naqwec4po","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Objetivo: </strong>Elaborar de forma colaborativa el producto final del proyecto: el mural o rincón de las emociones.</p>\n<p>El alumnado participará en la creación de un mural donde se representarán las emociones trabajadas durante toda la situación de aprendizaje.</p>\n<p>Lo hará mediante:</p>\n<p>-Selección de emociones trabajadas.</p>\n<p>- Dibujo o representación de emociones.</p>\n<p>- Pegado de imágenes, pictogramas o trabajos del alumnado.</p>\n<p>- Montaje final del mural en el aula.</p>\n<p>Todos los niños y niñas participan en la construcción del mural, respetando y valorando el trabajo de los demás.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431319863-6mjntmb2c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431319863-6mjntmb2c</odePageId>
+      <odeBlockId>block-1778433071540-6u7yhmzev</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431319863-6mjntmb2c</odePageId>
+          <odeBlockId>block-1778433071540-6u7yhmzev</odeBlockId>
+          <odeIdeviceId>idevice-1778433071539-onb4l4j9v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se desarrollará a lo largo de varias sesiones en el aula de Educación Infantil (5 años).</p>
+<p>Sesión 1: Introducción a las emociones<br />Sesión 2: Reconocemos emociones<br />Sesión 3: Cuentos emocionales<br />Sesión 4: Juegos cooperativos<br />Sesión 5: Creación del mural final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433071539-onb4l4j9v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se desarrollará a lo largo de varias sesiones en el aula de Educación Infantil (5 años).</p>\n<p>Sesión 1: Introducción a las emociones<br />Sesión 2: Reconocemos emociones<br />Sesión 3: Cuentos emocionales<br />Sesión 4: Juegos cooperativos<br />Sesión 5: Creación del mural final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431332579-mf0a0g56k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431489162-juyswtfqm</odePageId>
+  <odeParentPageId>page-1778431332579-mf0a0g56k</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431489162-juyswtfqm</odePageId>
+      <odeBlockId>block-1778433174773-2mrvyb7z2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431489162-juyswtfqm</odePageId>
+          <odeBlockId>block-1778433174773-2mrvyb7z2</odeBlockId>
+          <odeIdeviceId>idevice-1778433174772-esc3y192o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se valorará la capacidad del alumnado para reconocer, expresar y comprender emociones básicas en diferentes situaciones cotidianas.</p>
+<p>Los criterios de evaluación se vinculan con los objetivos y competencias trabajadas en esta situación de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433174772-esc3y192o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se valorará la capacidad del alumnado para reconocer, expresar y comprender emociones básicas en diferentes situaciones cotidianas.</p>\n<p>Los criterios de evaluación se vinculan con los objetivos y competencias trabajadas en esta situación de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431498097-wqv5fx52c</odePageId>
+  <odeParentPageId>page-1778431489162-juyswtfqm</odeParentPageId>
+  <pageName>Instrumentos de evaluación (rúbricas, listas de cotejo, etc.)</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación (rúbricas, listas de cotejo, etc.)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431498097-wqv5fx52c</odePageId>
+      <odeBlockId>block-1778433240121-9a4ogy250</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431498097-wqv5fx52c</odePageId>
+          <odeBlockId>block-1778433240121-9a4ogy250</odeBlockId>
+          <odeIdeviceId>idevice-1778433240121-191fsvwfp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para valorar el aprendizaje del alumnado se utilizarán:</p>
+<p>- Lista de cotejo<br />- Observación directa<br />- Registro anecdótico<br />- Rúbrica sencilla adaptada a Infantil</p>
+<p>La evaluación tendrá carácter continuo, formativo y global.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433240121-191fsvwfp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para valorar el aprendizaje del alumnado se utilizarán:</p>\n<p>- Lista de cotejo<br />- Observación directa<br />- Registro anecdótico<br />- Rúbrica sencilla adaptada a Infantil</p>\n<p>La evaluación tendrá carácter continuo, formativo y global.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431342829-27idz1j76</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431515728-3g5lp72oo</odePageId>
+  <odeParentPageId>page-1778431342829-27idz1j76</odeParentPageId>
+  <pageName>Recursos para el docente</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431515728-3g5lp72oo</odePageId>
+      <odeBlockId>block-1778433320242-1sbiegbv6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431515728-3g5lp72oo</odePageId>
+          <odeBlockId>block-1778433320242-1sbiegbv6</odeBlockId>
+          <odeIdeviceId>idevice-1778433320240-no2jbd8kw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Recursos para el docente:</strong></p>
+<p>Cuentos sobre emociones<br />Bancos de pictogramas<br />Recursos visuales<br />Actividades manipulativas<br />Vídeos educativos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433320240-no2jbd8kw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos para el docente:</strong></p>\n<p>Cuentos sobre emociones<br />Bancos de pictogramas<br />Recursos visuales<br />Actividades manipulativas<br />Vídeos educativos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431526695-omtcaqlfy</odePageId>
+  <odeParentPageId>page-1778431342829-27idz1j76</odeParentPageId>
+  <pageName>Recursos para el alumnado y familias</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado y familias</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431526695-omtcaqlfy</odePageId>
+      <odeBlockId>block-1778433376875-skfxpx995</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431526695-omtcaqlfy</odePageId>
+          <odeBlockId>block-1778433376875-skfxpx995</odeBlockId>
+          <odeIdeviceId>idevice-1778433376873-v70borxjk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Recursos adaptados para reforzar en casa el reconocimiento y gestión de emociones. Cuentos, canciones, juegos sencillos, ectc.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433376873-v70borxjk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Recursos adaptados para reforzar en casa el reconocimiento y gestión de emociones. Cuentos, canciones, juegos sencillos, ectc.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431358329-dt97nhixr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431358329-dt97nhixr</odePageId>
+      <odeBlockId>block-1778433475625-gooh016kl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431358329-dt97nhixr</odePageId>
+          <odeBlockId>block-1778433475625-gooh016kl</odeBlockId>
+          <odeIdeviceId>idevice-1778433475623-cuklvkb45</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Medidas adoptadas:</strong></p>
+<p>- Uso responsable de imágenes<br />- Permisos familiares<br />- Privacidad básica</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433475623-cuklvkb45","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Medidas adoptadas:</strong></p>\n<p>- Uso responsable de imágenes<br />- Permisos familiares<br />- Privacidad básica</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431367546-g37rjfuve</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431367546-g37rjfuve</odePageId>
+      <odeBlockId>block-1778433658221-xk2npoxn9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431367546-g37rjfuve</odePageId>
+          <odeBlockId>block-1778433658221-xk2npoxn9</odeBlockId>
+          <odeIdeviceId>idevice-1778433658220-sf67qtu6y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>GUÍA DIDÁCTICA</strong></p>
+<p>La guía es un documento de apoyo para la implementación de la situación de aprendizaje “Descubriendo mis emociones” en el aula de Educación Infantil (5 años).</p>
+<p><strong>RELACIÓN ENTRE ACTIVIDADES Y CRITERIOS DE EVALUACIÓN</strong></p>
+<p>Actividad 1 → Identificación de emociones básicas<br />Actividad 2 → Reconocimiento emocional y empatía<br />Actividad 3 → Comprensión emocional mediante cuentos<br />Actividad 4 → Expresión corporal y cooperación<br />Actividad 5 → Aplicación práctica y producto final</p>
+<p><strong>METODOLOGÍA</strong></p>
+<p>Aprendizaje activo<br />Juego<br />Trabajo cooperativo<br />Experimentación y manipulación</p>
+<p><strong>TEMPORALIZACIÓN</strong></p>
+<p>Desarrollo previsto en 5 sesiones.<br /> <br /><strong>OBSERVACIONES</strong></p>
+<p>La propuesta es flexible y adaptable a las necesidades del grupo aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433658220-sf67qtu6y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>GUÍA DIDÁCTICA</strong></p>\n<p>La guía es un documento de apoyo para la implementación de la situación de aprendizaje “Descubriendo mis emociones” en el aula de Educación Infantil (5 años).</p>\n<p><strong>RELACIÓN ENTRE ACTIVIDADES Y CRITERIOS DE EVALUACIÓN</strong></p>\n<p>Actividad 1 → Identificación de emociones básicas<br />Actividad 2 → Reconocimiento emocional y empatía<br />Actividad 3 → Comprensión emocional mediante cuentos<br />Actividad 4 → Expresión corporal y cooperación<br />Actividad 5 → Aplicación práctica y producto final</p>\n<p><strong>METODOLOGÍA</strong></p>\n<p>Aprendizaje activo<br />Juego<br />Trabajo cooperativo<br />Experimentación y manipulación</p>\n<p><strong>TEMPORALIZACIÓN</strong></p>\n<p>Desarrollo previsto en 5 sesiones.<br /> <br /><strong>OBSERVACIONES</strong></p>\n<p>La propuesta es flexible y adaptable a las necesidades del grupo aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431377496-wtnrcaivo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad y DUA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431377496-wtnrcaivo</odePageId>
+      <odeBlockId>block-1778433982155-x281zirhe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431377496-wtnrcaivo</odePageId>
+          <odeBlockId>block-1778433982155-x281zirhe</odeBlockId>
+          <odeIdeviceId>idevice-1778433982154-s3ogybig1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se diseña teniendo en cuenta la diversidad del alumnado y los principios del Diseño Universal para el Aprendizaje (DUA).<br /> <br />MEDIDAS DE ATENCIÓN A LA DIVERSIDAD<br />Adaptación de actividades según necesidades del alumnado<br />Uso de apoyos visuales y pictogramas<br />Flexibilidad en tiempos y agrupamientos<br />Refuerzo individualizado cuando sea necesario</p>
+<p>PRINCIPIOS DUA<br />Múltiples formas de representación<br />imágenes<br />cuentos<br />materiales visuales<br />Múltiples formas de acción y expresión<br />expresión oral<br />corporal<br />artística<br />Múltiples formas de implicación<br />juego<br />actividades manipulativas<br />trabajo cooperativo<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778433982154-s3ogybig1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se diseña teniendo en cuenta la diversidad del alumnado y los principios del Diseño Universal para el Aprendizaje (DUA).<br /> <br />MEDIDAS DE ATENCIÓN A LA DIVERSIDAD<br />Adaptación de actividades según necesidades del alumnado<br />Uso de apoyos visuales y pictogramas<br />Flexibilidad en tiempos y agrupamientos<br />Refuerzo individualizado cuando sea necesario</p>\n<p>PRINCIPIOS DUA<br />Múltiples formas de representación<br />imágenes<br />cuentos<br />materiales visuales<br />Múltiples formas de acción y expresión<br />expresión oral<br />corporal<br />artística<br />Múltiples formas de implicación<br />juego<br />actividades manipulativas<br />trabajo cooperativo<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778431384962-z2o8mj1t7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778431384962-z2o8mj1t7</odePageId>
+      <odeBlockId>block-1778434051489-np8j2xcsm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778431384962-z2o8mj1t7</odePageId>
+          <odeBlockId>block-1778434051489-np8j2xcsm</odeBlockId>
+          <odeIdeviceId>idevice-1778434051487-ftfjeary3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Paula Alarcón Gómez</p>
+<p><strong>Descripción</strong><br />Situación de aprendizaje dirigida al alumnado de 5 años de Educación Infantil centrada en el reconocimiento, expresión y gestión de emociones.<br /> <br /><strong>Licencia</strong><br />Creative Commons Reconocimiento-NoComercial-CompartirIgual (CC BY-NC-SA)<br /> <br /><strong>Recursos utilizados</strong><br />Imágenes libres de uso educativo<br />Recursos digitales y materiales propios<br />Cuentos y materiales adaptados para Educación Infantil<br /> <br /><strong>Este recurso dispone de archivo editable en formato eXeLearning (.elp).</strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778434051487-ftfjeary3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Paula Alarcón Gómez</p>\n<p><strong>Descripción</strong><br />Situación de aprendizaje dirigida al alumnado de 5 años de Educación Infantil centrada en el reconocimiento, expresión y gestión de emociones.<br /> <br /><strong>Licencia</strong><br />Creative Commons Reconocimiento-NoComercial-CompartirIgual (CC BY-NC-SA)<br /> <br /><strong>Recursos utilizados</strong><br />Imágenes libres de uso educativo<br />Recursos digitales y materiales propios<br />Cuentos y materiales adaptados para Educación Infantil<br /> <br /><strong>Este recurso dispone de archivo editable en formato eXeLearning (.elp).</strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
